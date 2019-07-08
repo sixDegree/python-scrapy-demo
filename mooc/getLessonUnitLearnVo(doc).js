@@ -1,0 +1,17 @@
+//#DWR-INSERT
+//#DWR-REPLY
+dwr.engine._remoteHandleCallback('1','0'
+	,{contentId:null,contentType:null,duration:null
+		,hdMp4Url:null,htmlContent:null
+		,id:null,learnedPosition:1
+		,origSrtUrl:null,paper:null
+		,parsedSrtUrl:null,post:null
+		,randomKey:null,sdMp4Url:null
+		,shdMp4Url:null,srtKeys:null
+		,textOrigUrl:"http://nos.netease.com/edu-lesson-pdfsrc/626F8E379443065A16DB5E9B30F1C35D-1550709558538?Signature=pY8YAa5BX0lxKopl498MDYM8w0Xh0lZJac592NNMfio%3D&Expires=1557332060&NOSAccessKeyId=7ba71f968e4340f1ab476ecb300190fa&download=1.+%E6%9E%9A%E4%B8%BE.pdf"
+		,textPageWhRatio:1.78,textPages:51
+		,textUrl:"http://nos.netease.com/edu-lesson-content/content-1212867249.swf?Signature=e46jz8HJXbzAiuZyVeVEty8BkyizoErRcIFcCjuyhM4%3D&Expires=1557332060&NOSAccessKeyId=7ba71f968e4340f1ab476ecb300190fa"
+		,type:null,unitId:null,videoHDUrl:null
+		,videoId:null,videoImgUrl:null,videoLearnTime:0
+		,videoSHDUrl:null,videoUrl:null,videoVo:null
+	});

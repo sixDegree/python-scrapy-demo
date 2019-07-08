@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+__pycache__
+
+.idea
+build
+dbs
+eggs
+project.egg-info
+logs

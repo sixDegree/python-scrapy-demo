@@ -1,0 +1,2 @@
+src_url,src_selector,title,rate,url,cover,id
+http://movie.douban.com/,#screening li[data-title],::attr(data-title),::attr(data-rate),li.poster>a::attr(href),li.poster img::attr(src),::attr(data-trailer)
